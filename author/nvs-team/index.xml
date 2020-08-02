@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NVS Team | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/author/nvs-team/</link>
+      <atom:link href="https://nvsteam.github.io/author/nvs-team/index.xml" rel="self" type="application/rss+xml" />
+    <description>NVS Team</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team</copyright>
+    <image>
+      <url>https://nvsteam.github.io/author/nvs-team/avatar_hu6e13351bc6cd1747daa311d6723eaab9_95589_270x270_fill_lanczos_center_2.png</url>
+      <title>NVS Team</title>
+      <link>https://nvsteam.github.io/author/nvs-team/</link>
+    </image>
+    
+  </channel>
+</rss>
