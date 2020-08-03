@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ellen Brooks-Pollock | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/author/ellen-brooks-pollock/</link>
+      <atom:link href="https://nvsteam.github.io/author/ellen-brooks-pollock/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ellen Brooks-Pollock</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team</copyright><lastBuildDate>Fri, 03 May 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
+      <title>Ellen Brooks-Pollock</title>
+      <link>https://nvsteam.github.io/author/ellen-brooks-pollock/</link>
+    </image>
+    
+    <item>
+      <title>A Network Architecture for Bidirectional Neurovascular Coupling in Rat Whisker Barrel Cortex</title>
+      <link>https://nvsteam.github.io/pages/new/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/pages/new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

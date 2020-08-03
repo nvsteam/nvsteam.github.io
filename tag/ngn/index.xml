@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ngn | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/tag/ngn/</link>
+      <atom:link href="https://nvsteam.github.io/tag/ngn/index.xml" rel="self" type="application/rss+xml" />
+    <description>ngn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
+      <title>ngn</title>
+      <link>https://nvsteam.github.io/tag/ngn/</link>
+    </image>
+    
+    <item>
+      <title>Network level neuro-glial-vascular interaction</title>
+      <link>https://nvsteam.github.io/project/ng_network/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://nvsteam.github.io/project/ng_network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

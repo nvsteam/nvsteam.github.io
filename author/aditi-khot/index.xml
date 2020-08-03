@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aditi Khot | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/author/aditi-khot/</link>
+      <atom:link href="https://nvsteam.github.io/author/aditi-khot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aditi Khot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team</copyright><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
+      <title>Aditi Khot</title>
+      <link>https://nvsteam.github.io/author/aditi-khot/</link>
+    </image>
+    
+    <item>
+      <title>A Network Architecture for Bidirectional Neurovascular Coupling in Rat Whisker Barrel Cortex</title>
+      <link>https://nvsteam.github.io/publication/whisker_barallel_cortex/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/publication/whisker_barallel_cortex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

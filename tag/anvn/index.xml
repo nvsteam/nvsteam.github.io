@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anvn | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/tag/anvn/</link>
+      <atom:link href="https://nvsteam.github.io/tag/anvn/index.xml" rel="self" type="application/rss+xml" />
+    <description>anvn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
+      <title>anvn</title>
+      <link>https://nvsteam.github.io/tag/anvn/</link>
+    </image>
+    
+    <item>
+      <title>Neurovascular network modeling using ANVNs</title>
+      <link>https://nvsteam.github.io/project/anvn/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://nvsteam.github.io/project/anvn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
