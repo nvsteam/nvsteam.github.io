@@ -224,6 +224,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174236909-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-174236909-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -259,7 +297,7 @@
   <meta property="og:description" content="Neurovascular Team, Computational Neuroscience Laboratory, IIT Madras"><meta property="og:image" content="https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    
+    <meta property="og:updated_time" content="2019-12-12T00:00:00&#43;05:30">
   
 
   
@@ -571,184 +609,29 @@
 
 
 
+<div class="universal-wrapper pt-3">
+  <h1>Nagavarshini Mayakkannan</h1>
+</div>
+
 
 <section id="profile-page" class="pt-5">
   <div class="container">
     
     
-      
-      
-      
-      
 
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
-
-      
-      
-      <img class="avatar avatar-circle" src="/author/nagavarshini-mayakkannan/avatar_hu6e13351bc6cd1747daa311d6723eaab9_95589_270x270_fill_lanczos_center_2.png" alt="Nagavarshini Mayakkannan">
-      
-
-      <div class="portrait-title">
-        <h2>Nagavarshini Mayakkannan</h2>
-        <h3>Junior Researcher Fellow</h3>
-
-        
-        <h3>
-          <a href="https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html" target="_blank" rel="noopener">
-          <span>CNS Laboratory</span>
-          </a>
-        </h3>
-        
-        <h3>
-          <a href="https://www.iitm.ac.in/" target="_blank" rel="noopener">
-          <span>IIT Madras</span>
-          </a>
-        </h3>
-        
-      </div>
-
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
+    
+    
+    
+    <div class="article-widget content-widget-hr">
+      <h3>Latest</h3>
+      <ul>
         
         <li>
-          <a href="/#contact" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/gcushen" target="_blank" rel="noopener">
-            <i class="fab fa-github big-icon"></i>
-          </a>
+          <a href="/publication/encoding_temporal_relations/">Encoding Temporal Relations using Complex-Valued Synapses</a>
         </li>
         
       </ul>
-
     </div>
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-    
-
-    <p>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</p>
-
-
-    <div class="row">
-
-      
-
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Junior Research Fellow, 2020</p>
-              <p class="institution">Indian Institute of Technology, Madras</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Project Associate, 2019</p>
-              <p class="institution">Indian Institute of Technology, Madras</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">B.Engg in Biomedical Engineering, 2018</p>
-              <p class="institution">SSN College of Engineering, Chennai</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
-
-    </div>
-  </div>
-</div>
-
-    
-
-    
-    
     
   </div>
 </section>
