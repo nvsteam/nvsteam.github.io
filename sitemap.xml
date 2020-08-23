@@ -68,56 +68,6 @@
   </url>
   
   <url>
-    <loc>https://nvsteam.github.io/tag/anvn/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/tag/completed/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/tag/gcal/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/project/ng_network/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/project/anvn/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/project/gcal/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/tag/ngn/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/tag/ongoing/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/project/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/tags/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nvsteam.github.io/publication-type/3/</loc>
     <lastmod>2019-04-08T00:00:00+05:30</lastmod>
   </url>
@@ -150,16 +100,6 @@
   <url>
     <loc>https://nvsteam.github.io/author/v.-srinivasa-chakravarthy/</loc>
     <lastmod>2018-11-18T18:16:09+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/project/oscillators/</loc>
-    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nvsteam.github.io/tag/oscillators/</loc>
-    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -200,6 +140,10 @@
   
   <url>
     <loc>https://nvsteam.github.io/author/srinivasa-chakravarthy.-v/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nvsteam.github.io/tags/</loc>
   </url>
   
 </urlset>

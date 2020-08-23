@@ -29,30 +29,6 @@
     </item>
     
     <item>
-      <title>Network level neuro-glial-vascular interaction</title>
-      <link>https://nvsteam.github.io/project/ng_network/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://nvsteam.github.io/project/ng_network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neurovascular network modeling using ANVNs</title>
-      <link>https://nvsteam.github.io/project/anvn/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://nvsteam.github.io/project/anvn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neurovascular network modeling using GCAL architecture</title>
-      <link>https://nvsteam.github.io/project/gcal/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://nvsteam.github.io/project/gcal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Network Architecture for Bidirectional Neurovascular Coupling in Rat Whisker Barrel Cortex</title>
       <link>https://nvsteam.github.io/publication/whisker_barallel_cortex/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0530</pubDate>
@@ -65,14 +41,6 @@
       <link>https://nvsteam.github.io/publication/phase_and_amplitude/</link>
       <pubDate>Sun, 18 Nov 2018 18:16:09 +0530</pubDate>
       <guid>https://nvsteam.github.io/publication/phase_and_amplitude/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coupled oscillators to explain neurovascular interactions</title>
-      <link>https://nvsteam.github.io/project/oscillators/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://nvsteam.github.io/project/oscillators/</guid>
       <description></description>
     </item>
     
