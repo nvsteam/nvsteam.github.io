@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANVN | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/tag/anvn/</link>
+      <atom:link href="https://nvsteam.github.io/tag/anvn/index.xml" rel="self" type="application/rss+xml" />
+    <description>ANVN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team &amp;middot; Banner image source: [Biomerics](https://biomerics.com/markets/neurovascular/)</copyright><lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
+      <title>ANVN</title>
+      <link>https://nvsteam.github.io/tag/anvn/</link>
+    </image>
+    
+    <item>
+      <title>Neurovascular network modeling using ANVNs</title>
+      <link>https://nvsteam.github.io/project/anvn/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/project/anvn/</guid>
+      <description>&lt;p&gt;Using Artificial Neuro Vascular Networks (ANVNs) to understand the vascular network and to study the Blood Brain Barrier (BBB) plasticity in normal brain and pathological conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

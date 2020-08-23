@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Completed | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/tag/completed/</link>
+      <atom:link href="https://nvsteam.github.io/tag/completed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Completed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team &amp;middot; Banner image source: [Biomerics](https://biomerics.com/markets/neurovascular/)</copyright><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
+      <title>Completed</title>
+      <link>https://nvsteam.github.io/tag/completed/</link>
+    </image>
+    
+    <item>
+      <title>Network level neuro-glial-vascular interaction</title>
+      <link>https://nvsteam.github.io/project/ngn/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/project/ngn/</guid>
+      <description>&lt;p&gt;A network level implementation of neuro-glial-vascular interactions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coupled oscillators to explain neurovascular interactions</title>
+      <link>https://nvsteam.github.io/project/oscillators/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/project/oscillators/</guid>
+      <description>&lt;p&gt;Exploring the use of coupled oscillators to explain neurovascular interactions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

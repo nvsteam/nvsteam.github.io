@@ -5,12 +5,21 @@
     <link>https://nvsteam.github.io/</link>
       <atom:link href="https://nvsteam.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Neuro-Vascular Team</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team</copyright><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team &amp;middot; Banner image source: [Biomerics](https://biomerics.com/markets/neurovascular/)</copyright><lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
       <title>Neuro-Vascular Team</title>
       <link>https://nvsteam.github.io/</link>
     </image>
+    
+    <item>
+      <title>Neurovascular network modeling using ANVNs</title>
+      <link>https://nvsteam.github.io/project/anvn/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/project/anvn/</guid>
+      <description>&lt;p&gt;Using Artificial Neuro Vascular Networks (ANVNs) to understand the vascular network and to study the Blood Brain Barrier (BBB) plasticity in normal brain and pathological conditions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Encoding Temporal Relations using Complex-Valued Synapses</title>
@@ -29,6 +38,24 @@
     </item>
     
     <item>
+      <title>Network level neuro-glial-vascular interaction</title>
+      <link>https://nvsteam.github.io/project/ngn/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/project/ngn/</guid>
+      <description>&lt;p&gt;A network level implementation of neuro-glial-vascular interactions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neurovascular network modeling using GCAL architecture</title>
+      <link>https://nvsteam.github.io/project/gcal/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/project/gcal/</guid>
+      <description>&lt;p&gt;Exploring neurovascular network using an interactive GCAL architecture, to analyze the vascular network connectivity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Network Architecture for Bidirectional Neurovascular Coupling in Rat Whisker Barrel Cortex</title>
       <link>https://nvsteam.github.io/publication/whisker_barallel_cortex/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0530</pubDate>
@@ -42,6 +69,15 @@
       <pubDate>Sun, 18 Nov 2018 18:16:09 +0530</pubDate>
       <guid>https://nvsteam.github.io/publication/phase_and_amplitude/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled oscillators to explain neurovascular interactions</title>
+      <link>https://nvsteam.github.io/project/oscillators/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/project/oscillators/</guid>
+      <description>&lt;p&gt;Exploring the use of coupled oscillators to explain neurovascular interactions.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
