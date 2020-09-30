@@ -5,12 +5,20 @@
     <link>https://nvsteam.github.io/publication/</link>
       <atom:link href="https://nvsteam.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team &amp;middot; Banner image source: [Biomerics](https://biomerics.com/markets/neurovascular/)</copyright><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team &amp;middot; Banner image source: [Biomerics](https://biomerics.com/markets/neurovascular/)</copyright><lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://nvsteam.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Attractor Dynamics in the Energy - Accuracy Space in an Artificial Neurovascular Network</title>
+      <link>https://nvsteam.github.io/publication/anvn-bernstein/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/publication/anvn-bernstein/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Encoding Temporal Relations using Complex-Valued Synapses</title>
