@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karishma Chhabria | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/author/karishma-chhabria/</link>
+      <atom:link href="https://nvsteam.github.io/author/karishma-chhabria/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karishma Chhabria</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team &amp;middot; Banner image source: [Biomerics](https://biomerics.com/markets/neurovascular/)</copyright><lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
+      <title>Karishma Chhabria</title>
+      <link>https://nvsteam.github.io/author/karishma-chhabria/</link>
+    </image>
+    
+    <item>
+      <title>Low-Dimensional Models of “Neuro-Glio-Vascular Unit” for Describing Neural Dynamics under Normal and Energy-Starved Conditions</title>
+      <link>https://nvsteam.github.io/publication/karishma2016/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/publication/karishma2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vascular Dynamics Aid a Coupled Neurovascular Network Learn Sparse Independent Features: A Computational Model</title>
+      <link>https://nvsteam.github.io/publication/karishma_ryan/</link>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/publication/karishma_ryan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

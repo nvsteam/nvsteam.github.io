@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>V. Srinivasa Chakravarthy | Neuro-Vascular Team</title>
-    <link>https://nvsteam.github.io/author/v.-srinivasa-chakravarthy/</link>
-      <atom:link href="https://nvsteam.github.io/author/v.-srinivasa-chakravarthy/index.xml" rel="self" type="application/rss+xml" />
-    <description>V. Srinivasa Chakravarthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team &amp;middot; Banner image source: [Biomerics](https://biomerics.com/markets/neurovascular/)</copyright><lastBuildDate>Sun, 18 Nov 2018 18:16:09 +0530</lastBuildDate>
+    <title>2 | Neuro-Vascular Team</title>
+    <link>https://nvsteam.github.io/publication-type/2/</link>
+      <atom:link href="https://nvsteam.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 NeuroVascular Team &amp;middot; Banner image source: [Biomerics](https://biomerics.com/markets/neurovascular/)</copyright><lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://nvsteam.github.io/images/icon_hude6ab2736b9a3ce19c67f4b7614ae4ce_115562_512x512_fill_lanczos_center_2.png</url>
-      <title>V. Srinivasa Chakravarthy</title>
-      <link>https://nvsteam.github.io/author/v.-srinivasa-chakravarthy/</link>
+      <title>2</title>
+      <link>https://nvsteam.github.io/publication-type/2/</link>
     </image>
-    
-    <item>
-      <title>Phase and Amplitude Modulation in a Neural Oscillatory Model of the Orientation Map</title>
-      <link>https://nvsteam.github.io/publication/phase_and_amplitude/</link>
-      <pubDate>Sun, 18 Nov 2018 18:16:09 +0530</pubDate>
-      <guid>https://nvsteam.github.io/publication/phase_and_amplitude/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Low-Dimensional Models of “Neuro-Glio-Vascular Unit” for Describing Neural Dynamics under Normal and Energy-Starved Conditions</title>
@@ -41,6 +33,14 @@
       <link>https://nvsteam.github.io/publication/chander/</link>
       <pubDate>Sat, 20 Oct 2012 00:00:00 +0530</pubDate>
       <guid>https://nvsteam.github.io/publication/chander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model of Indispensability of a Large Glial Layer in Cerebrovascular Circulation</title>
+      <link>https://nvsteam.github.io/publication/gandrakota/</link>
+      <pubDate>Fri, 26 Jun 2009 00:00:00 +0530</pubDate>
+      <guid>https://nvsteam.github.io/publication/gandrakota/</guid>
       <description></description>
     </item>
     
