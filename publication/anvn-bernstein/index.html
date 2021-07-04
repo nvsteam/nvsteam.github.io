@@ -9,214 +9,48 @@
 
   
 
-  
-  
-
-  
-  
-  
-  
-  
-    
-    
-    
-  
-  
-
   <meta name="author" content="Bhadra S. Kumar">
 
-  
-  
-  
-    
+   
   
   <meta name="description" content="Feedforward neural networks, when trained optimally perform classification and function approximation tasks with reasonably high accuracy. Biological neural networks, unlike their artificial counterparts, require energy which is provided by a network of blood vessels. This leads us to ask whether the cerebrovascular network is capable of ensuring maximum performance of the neural network while supplying minimum energy? Should the cerebrovascular network also be trained, like the neural network, to achieve such an optimum? In order to answer these questions, we constructed an Artificial Neurovascular Network (ANVN) comprising of a multilayered perceptron (MLP) connected to a vascular tree structure. The root node of the vascular tree structure is an energy source and the terminal nodes of the vascular tree supply energy to the hidden neurons of the MLP. The energy delivered by the terminal vascular nodes to the hidden neurons determines the biases of the hidden neurons. The “weights&#39;&#39; on the branches of the vascular tree depict the energy distribution from the parent node to the child nodes. The vascular weights are updated by a kind of “backpropagation” of the energy demand error that arises inside the hidden neurons. Analyzing the test performance of ANVN with trained and untrained vascular networks, we found that higher performance was achieved at lower energy levels when the vascular network is trained. This indicates that the vascular network is trained to ensure efficient neural performance. We also found that the energy efficiency of an ANVN reaches a maximum at an optimal hidden neuron size. In addition, for a smaller number of hidden neurons, the per capita energy consumption vs accuracy of the network approaches a fixed point attractor. Once the number of hidden neurons increases beyond a threshold, the fixed point appears to vanish giving place to a line of attractors.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://nvsteam.github.io/publication/anvn-bernstein/">
 
-  
-
-
-  
-  
-  
   <meta name="theme-color" content="#2962ff">
   
 
-  
-  
-  
   <script src="https://nvsteam.github.io/js/mathjax-config.js"></script>
   
-
-  
-  
-  
-  
-    
     
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
-    
-    
-    
-      
-    
-    
-      
       
         
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
-    
-
-    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
-
-    
-
-    
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
+     
         <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
       
     
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
 
       
         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
-
-      
-      
-
-      
-    
-
-  
-
-  
-  
-  
-    
-      
-      
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,600%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
     
   
 
-  
-  
-  
-  
   <link rel="stylesheet" href="https://nvsteam.github.io/css/academic.css">
 
   
@@ -434,26 +268,7 @@
       
       <ul class="navbar-nav d-md-inline-flex">
         
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
+   
           
         
 
@@ -461,156 +276,32 @@
           <a class="nav-link " href="https://nvsteam.github.io/#about"><span>Home</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
         <li class="nav-item">
           <a class="nav-link " href="https://nvsteam.github.io/#news"><span>News</span></a>
         </li>
 
         
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
         <li class="nav-item">
           <a class="nav-link " href="https://nvsteam.github.io/#publications"><span>Publications</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
+      
 
         <li class="nav-item">
           <a class="nav-link " href="https://nvsteam.github.io/#projects"><span>Projects</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
+       
         <li class="nav-item">
           <a class="nav-link " href="https://nvsteam.github.io/#people"><span>Team</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
+      
         <li class="nav-item">
           <a class="nav-link " href="https://nvsteam.github.io/#contact"><span>Contact</span></a>
         </li>
 
-        
-        
-
-      
-
+     
         
       </ul>
     </div>
@@ -651,108 +342,37 @@
 
   <div class="pub">
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
+ 
   
   
 <div class="article-container pt-3">
   <h1>Attractor Dynamics in the Energy - Accuracy Space in an Artificial Neurovascular Network</h1>
 
-  
-
-  
-    
 
 
 <div class="article-metadata">
 
-  
-  
-  
+
   
   <div>
-    
 
   
   <span >Bhadra S Kumar</span>, <span >Nagavarshini Mayakkannan</span>, <span >N Sowmya Manojna</span>, <span >V Srinivasa Chakravarthy</span>
   </div>
-  
-  
 
-  
   <span class="article-date">
     
-    
-      
-    
+   
     September 2020
   </span>
   
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
 </div>
 
     
 
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="btn-links mb-3">
   
   
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
 
 
 
